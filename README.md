@@ -78,9 +78,7 @@ Insights supported the design of a Power BI dashboard for ongoing strategic use.
 - Identified margin leakage from outlier pricing patterns
 - Recommended dynamic pricing strategies by product tier
 
----
-## Final Dashboard
-![Dashboard Preview](/preview.png)
+----
 
 ## Tools & Technologies
 
