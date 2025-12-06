@@ -9,11 +9,7 @@
 
 ---
 
-## Dashboard Preview
-
-![Profitability Analysis Preview](/profitability_analysis.png)
-
-## Highlights (TL;DR)
+## Highlights
 
 - Identified top revenue and margin drivers across product, region, and channel
 - Flagged pricing anomalies and low-margin transactions
